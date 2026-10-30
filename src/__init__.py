@@ -1,0 +1,1 @@
+"""Rainfall analysis application modules."""

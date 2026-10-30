@@ -1,0 +1,37 @@
+SUBDIVISION,latitude,longitude,centroid_note
+ANDAMAN & NICOBAR ISLANDS,11.67,92.74,Port Blair representative centroid
+ARUNACHAL PRADESH,28.22,94.73,State interior centroid
+ASSAM & MEGHALAYA,25.58,91.89,Guwahati-Shillong regional centroid
+NAGA MANI MIZO TRIPURA,24.30,93.90,Northeast regional centroid
+SUB HIMALAYAN WEST BENGAL & SIKKIM,27.15,88.42,Himalayan foothill centroid
+GANGETIC WEST BENGAL,22.57,88.36,Kolkata plains centroid
+ORISSA,20.27,85.84,Bhubaneswar centroid
+JHARKHAND,23.34,85.31,Ranchi centroid
+BIHAR,25.59,85.14,Patna centroid
+EAST UTTAR PRADESH,26.85,80.95,Lucknow eastern plains centroid
+WEST UTTAR PRADESH,28.98,77.71,Western plains centroid
+UTTARAKHAND,30.32,78.03,Dehradun centroid
+HARYANA DELHI & CHANDIGARH,29.06,76.09,Haryana-Delhi regional centroid
+PUNJAB,30.90,75.86,Ludhiana centroid
+HIMACHAL PRADESH,31.10,77.17,Shimla centroid
+JAMMU & KASHMIR,33.78,76.58,Regional interior centroid
+WEST RAJASTHAN,26.91,71.00,Western desert centroid
+EAST RAJASTHAN,26.91,75.79,Jaipur centroid
+WEST MADHYA PRADESH,23.26,77.41,Bhopal western region centroid
+EAST MADHYA PRADESH,23.18,79.99,Jabalpur centroid
+GUJARAT REGION,23.02,72.57,Ahmedabad centroid
+SAURASHTRA & KUTCH,22.30,70.80,Saurashtra centroid
+KONKAN & GOA,15.49,73.83,Goa-Konkan coast centroid
+MADHYA MAHARASHTRA,19.75,75.71,Marathwada plateau centroid
+MATATHWADA,19.15,76.57,Marathwada centroid
+VIDARBHA,21.15,79.09,Nagpur centroid
+CHHATTISGARH,21.25,81.63,Raipur centroid
+COASTAL ANDHRA PRADESH,16.51,80.65,Vijayawada coast centroid
+TELANGANA,17.39,78.49,Hyderabad centroid
+RAYALSEEMA,14.68,77.60,Anantapur centroid
+TAMIL NADU,11.13,78.66,State interior centroid
+COASTAL KARNATAKA,13.00,74.80,Mangaluru coast centroid
+NORTH INTERIOR KARNATAKA,15.85,75.71,Hubballi centroid
+SOUTH INTERIOR KARNATAKA,12.97,77.59,Bengaluru centroid
+KERALA,10.85,76.27,Kerala interior centroid
+LAKSHADWEEP,10.57,72.64,Kavaratti centroid
